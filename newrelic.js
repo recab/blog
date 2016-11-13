@@ -10,11 +10,11 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['My Application'],
+  app_name: ['Recab Blog'],
   /**
    * Your New Relic license key.
    */
-  license_key: 'license key here',
+  license_key: 'b89465e7028fa712234395b21bcaac3d2e574600',
   logging: {
     /**
      * Level at which to log. 'trace' is most useful to New Relic when diagnosing
